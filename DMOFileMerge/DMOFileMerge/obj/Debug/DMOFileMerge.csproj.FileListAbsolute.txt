@@ -1,0 +1,11 @@
+D:\DMO Application\DMOFileMerge\DMOFileMerge\bin\Debug\DMOFileMerge.exe.config
+D:\DMO Application\DMOFileMerge\DMOFileMerge\bin\Debug\DMOFileMerge.exe
+D:\DMO Application\DMOFileMerge\DMOFileMerge\bin\Debug\DMOFileMerge.pdb
+D:\DMO Application\DMOFileMerge\DMOFileMerge\obj\Debug\DMOFileMerge.csprojAssemblyReference.cache
+D:\DMO Application\DMOFileMerge\DMOFileMerge\obj\Debug\DMOFileMerge.Form1.resources
+D:\DMO Application\DMOFileMerge\DMOFileMerge\obj\Debug\DMOFileMerge.Properties.Resources.resources
+D:\DMO Application\DMOFileMerge\DMOFileMerge\obj\Debug\DMOFileMerge.csproj.GenerateResource.cache
+D:\DMO Application\DMOFileMerge\DMOFileMerge\obj\Debug\DMOFileMerge.csproj.CoreCompileInputs.cache
+D:\DMO Application\DMOFileMerge\DMOFileMerge\obj\Debug\DMOFileMerge.exe
+D:\DMO Application\DMOFileMerge\DMOFileMerge\obj\Debug\DMOFileMerge.pdb
+D:\DMO Application\DMOFileMerge\DMOFileMerge\obj\Debug\DMOFileMerge.Form2.resources
